@@ -1,0 +1,23 @@
+Address,Source Code,Positive,,,,
+0x0bf0f154b176c5d90f24e506f10f7f583eb5334d,Yes,TRUE,,,Number,Percentage
+0x0e77cb9d68b8bf3cc41561f8eda6c71e4a4b9ef7,Yes,TRUE,,True Positives,20,100
+0x15d0e6cedd8ecc39daa60c63a3a5830eeca7d720,Yes,TRUE,,False Positives,0,0
+0x1ebf20031b03b80e5f6fdbeb9f86d44145224006,Yes,TRUE,,,,
+0x35c3034556b81132e682db2f879e6f30721b847c,Yes,TRUE,,Total,22,
+0x3bafb3af16203c817ee9208c6b8a748398dae689,Yes,TRUE,,Total with source,20,
+0x3e013fc32a54c4c5b6991ba539dcd0ec4355c859,Yes,TRUE,,,,
+0x4fa6a6ae4b2c99a0520f9ffa0372eddc144af89f,No,,,,,
+0x5aa88d2901c68fda244f1d0584400368d2c8e739,Yes,TRUE,,,,
+0x5bb52e85c21ca3df3c71da6d03be19cff89e7cf9,Yes,TRUE,,,,
+0x69bfbf000bd39444af2efba733829b04211252bc,Yes,TRUE,,,,
+0x92e63be3a88df80f64ba4f829dd7ddf97e8b750b,Yes,TRUE,,,,
+0x9cdfd805d73b4837bf3f7b2296996aaecc881e86,Yes,TRUE,,,,
+0x9efc7a38552e63534a8e9b9558adabd73297f91d,Yes,TRUE,,,,
+0x9f54d912a029380f2743aaf4ddd28c3f207cd719,Yes,TRUE,,,,
+0xc7e4a9147601fdbc7d1c2fb8b6c2ffcb2469f293,Yes,TRUE,,,,
+0xc9c8ef2588647e6f5acb6aaee637264d2632609d,Yes,TRUE,,,,
+0xcbf5442a3573f099b255c1bcc2cffb5613ef6257,No,,,,,
+0xdf77e4a81fba17e0cc39dba521aa4167f388ed7c,Yes,TRUE,,,,
+0xe0527863df8abcb3caca7da329eb9c747822aa98,Yes,TRUE,,,,
+0xe26e90598190a98c92c75204c9a4ecfe5983f8e0,Yes,TRUE,,,,
+0xfd1e3d3e641f224ce8e1117866cf3f01ed2d5d9f,Yes,TRUE,,,,
