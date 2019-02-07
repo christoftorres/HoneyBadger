@@ -1,7 +1,7 @@
 HoneyBadger
 ===========
 
-![](https://github.com/christoftorres/HoneyBadger/blob/master/honeybadger_logo.png)
+![](https://github.com/christoftorres/HoneyBadger/blob/master/honeybadger_logo.png =200x)
 
 An analysis tool to detect honeypots in Ethereum smart contracts :honey_pot:. HoneyBadger is based on [Oyente](https://github.com/melonproject/oyente).
 
