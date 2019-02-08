@@ -5,6 +5,24 @@ HoneyBadger
 
 An analysis tool to detect honeypots in Ethereum smart contracts :honey_pot:. HoneyBadger is based on [Oyente](https://github.com/melonproject/oyente).
 
+## Quick Start
+
+A container with the dependencies set up can be found [here](https://hub.docker.com/r/christoftorres/honeybadger/).
+
+To open the container, install docker and run:
+
+```
+docker pull christoftorres/honeybadger && docker run -i -t christoftorres/honeybadger
+```
+
+To evaluate a simple honeypot inside the container, run:
+
+```
+python honeybadger/honeybadger.py -s honeypots/MultiplicatorX3.sol
+```
+
+and you are done!
+
 ## Custom Docker image build
 
 ```

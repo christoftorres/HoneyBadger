@@ -140,3 +140,6 @@ tools/statistics
 
 # Ignore analysis
 tools/analyser/analysis.py
+
+# Ignore website
+website
