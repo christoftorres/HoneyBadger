@@ -51,9 +51,9 @@ $ sudo apt-get update
 $ sudo apt-get install ethereum
 ```
 
-#### [z3](https://github.com/Z3Prover/z3/releases) Theorem Prover version 4.6.0.
+#### [z3](https://github.com/Z3Prover/z3/releases) Theorem Prover version 4.7.1.
 
-Download the [source code of version z3-4.6.0](https://github.com/Z3Prover/z3/releases/tag/z3-4.6.0)
+Download the [source code of version z3-4.7.1](https://github.com/Z3Prover/z3/releases/tag/z3-4.7.1)
 
 Install z3 using Python bindings
 
